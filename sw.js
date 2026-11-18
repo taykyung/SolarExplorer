@@ -1,5 +1,5 @@
 // Solar Explorer PWA service worker
-const VERSION = 'solar-explorer-v8';
+const VERSION = 'solar-explorer-v9';
 const CORE = [
   './', './index.html', './origin.html', './minigame.html', './memory.html',
   './manifest.webmanifest',
